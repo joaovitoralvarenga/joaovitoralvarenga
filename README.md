@@ -13,9 +13,7 @@
 
 ###
 
-<h2 align="center">Olá, eu sou o João Vitor!👋</h2>
-
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E8376&center=true&repeat=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jo%C3%A3o+Vitor!)](https://git.io/typing-svg)
 
 <h4 align="left">Eai!, meu nome é João Vitor de Alvarenga e sou aficionado em estudar e entender as tecnologias que nos circundam e como elas podem nos ajudar!</h4>
 
