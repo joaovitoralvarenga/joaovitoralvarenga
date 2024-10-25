@@ -4,6 +4,11 @@
 
 ###
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E8376&center=true&repeat=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jo%C3%A3o+Vitor!)](https://git.io/typing-svg)
+
+
+<div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-alvarenga-85794b2b1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -11,7 +16,8 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0E8376&center=true&repeat=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jo%C3%A3o+Vitor!)](https://git.io/typing-svg)
+
+
 
 
 
