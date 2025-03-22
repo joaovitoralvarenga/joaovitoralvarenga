@@ -74,6 +74,8 @@
 
 ###
 
+![snake gif](https://github.com/joaovitoralvarenga/joaovitoralvarenga/blob/output/github-snake-dark.svg)
+
 
 
 ###
